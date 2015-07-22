@@ -19,5 +19,7 @@ public abstract  class HidingStatusBarActivity extends AppCompatActivity {
         }
     }
 
-
 }
+
+To hide the status bar, your activity should extend this activity. 
+
