@@ -23,3 +23,7 @@ public abstract  class HidingStatusBarActivity extends AppCompatActivity {
 
 To hide the status bar, your activity should extend this activity. 
 
+The style, i am using given below: 
+
+<style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
